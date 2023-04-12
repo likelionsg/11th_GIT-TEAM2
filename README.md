@@ -2,7 +2,7 @@
 
 <div align="center">
    
-   ### 우리 조를 소개합니다 ~
+   # 우리 조를 소개합니다 ~
 
 <a href="https://github.com/taeho0888">
 <img src="https://github.com/taeho0888.png"width="100">
@@ -52,26 +52,26 @@
 
 <h3>작업물 사진</h3>
 
-- __권보미__
+__권보미__
 <img src="./images/%EA%B6%8C%EB%B3%B4%EB%AF%B8.png" height=auto>
 
-- __김기철__
+__김기철__
 <img src="./images/%EA%B9%80%EA%B8%B0%EC%B2%A0.jpg" height=auto>
 
-- __노현서__
+__노현서__
 <img src="./images/%EB%85%B8%ED%98%84%EC%84%9C.jpg" height=auto>
 
-- __신명준__
+__신명준__
 <img src="./images/%EC%8B%A0%EB%AA%85%EC%A4%80.png" height=auto>
 
-- __이우찬__
+__이우찬__
 <img src="./images/%EC%9D%B4%EC%9A%B0%EC%B0%AC.png" height=auto>
 
-- __장세환__
+__장세환__
 <img src="./images/%EC%9E%A5%EC%84%B8%ED%99%98.png" height=auto>
 
 </div>
 
 <br><br><br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=footer&text=중간%20끝나고%20만나요&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=footer&text=여기가%20끝2조&fontSize=90)
