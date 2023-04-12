@@ -17,7 +17,7 @@
 </a>
 <a href="https://github.com/Kinngife">
 <img src="https://github.com/Kinngife.png"width="100">
-</a>
+</a><br>
 <a href="https://github.com/ROHYUNSEO">
 <img src="https://github.com/ROHYUNSEO.png"width="100">
 </a>
@@ -35,7 +35,11 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |🦁[@taeho0888](https://github.com/taeho0888)|🦁[@dianexjeong](https://github.com/dianexjeong)|🦁[@kwonET](https://github.com/kwonET)|🦁[@Kinngife](https://github.com/Kinngife)|🦁[@ROHYUNSEO](https://github.com/ROHYUNSEO)|🦁[@go-the-extra-mile](https://github.com?go-the=extra-mile)|🦁[@wchan0409](https://github.com/wchan0409)|🦁[@SehwanChang](https://github.com/SehwanChang)|
 
+<img src="https://img.shields.io/badge/HTML-ECD53F?style=for-the-badge&&logo=html5&logoColor=black">
+
+<img src="https://img.shields.io/badge/CSS-40AEF0?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=footer&text=중간%20끝나고%20만나요&fontSize=90)
+
 
