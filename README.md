@@ -72,4 +72,6 @@
 
 </div>
 
+<br><br><br>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=footer&text=중간%20끝나고%20만나요&fontSize=90)
