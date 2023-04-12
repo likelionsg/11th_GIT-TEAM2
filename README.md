@@ -38,8 +38,8 @@
 <img src="https://img.shields.io/badge/HTML-ECD53F?style=for-the-badge&&logo=html5&logoColor=black">
 
 <img src="https://img.shields.io/badge/CSS-40AEF0?style=for-the-badge&logo=css3&logoColor=white">
+
+<a href="https://github.com/wchan0409"><img src="https://img.shields.io/badge/WOOCHAN-7FB5B5?style=flat-square"/></a> <a href="https://github.com/SehwanChang"><img src="https://img.shields.io/badge/SEHWAN-7E9EC2?style=flat-square"/></a> <a href="https://github.com/Kinngife"><img src="https://img.shields.io/badge/GICHEOL-7E9EC2?style=flat-square"/></a> <a href="https://github.com/ROHYUNSEO"><img src="https://img.shields.io/badge/HYUNSEO-7FB5B5?style=flat-square"/></a> <a href="https://github.com/kwonET"><img src="https://img.shields.io/badge/BOMI-7E9EC2?style=flat-square"/></a> <a href="https://github.com/dianexjeong"><img src="https://img.shields.io/badge/JIWOO-7FB5B5?style=flat-square"/></a> <a href="https://github.com/go-the-extra-mile"><img src="https://img.shields.io/badge/MYUNGJUNE-7FB5B5?style=flat-square"/></a> <a href="https://github.com/taeho0888"><img src="https://img.shields.io/badge/TAEHO-7FB5B5?style=flat-square"/></a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=footer&text=중간%20끝나고%20만나요&fontSize=90)
-
-
