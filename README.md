@@ -40,6 +40,27 @@
 <img src="https://img.shields.io/badge/CSS-40AEF0?style=for-the-badge&logo=css3&logoColor=white">
 
 <a href="https://github.com/wchan0409"><img src="https://img.shields.io/badge/WOOCHAN-7FB5B5?style=flat-square"/></a> <a href="https://github.com/SehwanChang"><img src="https://img.shields.io/badge/SEHWAN-7E9EC2?style=flat-square"/></a> <a href="https://github.com/Kinngife"><img src="https://img.shields.io/badge/GICHEOL-7E9EC2?style=flat-square"/></a> <a href="https://github.com/ROHYUNSEO"><img src="https://img.shields.io/badge/HYUNSEO-7FB5B5?style=flat-square"/></a> <a href="https://github.com/kwonET"><img src="https://img.shields.io/badge/BOMI-7E9EC2?style=flat-square"/></a> <a href="https://github.com/dianexjeong"><img src="https://img.shields.io/badge/JIWOO-7FB5B5?style=flat-square"/></a> <a href="https://github.com/go-the-extra-mile"><img src="https://img.shields.io/badge/MYUNGJUNE-7FB5B5?style=flat-square"/></a> <a href="https://github.com/taeho0888"><img src="https://img.shields.io/badge/TAEHO-7FB5B5?style=flat-square"/></a>
+
+<h3>작업물 사진</h3>
+
+- __권보미__
+<img src="./images/%EA%B6%8C%EB%B3%B4%EB%AF%B8.png" height=auto>
+
+- __김기철__
+<img src="./images/%EA%B9%80%EA%B8%B0%EC%B2%A0.jpg" height=auto>
+
+- __노현서__
+<img src="./images/%EB%85%B8%ED%98%84%EC%84%9C.jpg" height=auto>
+
+- __신명준__
+<img src="./images/%EC%8B%A0%EB%AA%85%EC%A4%80.png" height=auto>
+
+- __이우찬__
+<img src="./images/%EC%9D%B4%EC%9A%B0%EC%B0%AC.png" height=auto>
+
+- __장세환__
+<img src="./images/%EC%9E%A5%EC%84%B8%ED%99%98.png" height=auto>
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=footer&text=중간%20끝나고%20만나요&fontSize=90)
